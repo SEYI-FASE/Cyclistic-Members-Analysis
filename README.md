@@ -16,4 +16,4 @@
 * ![Station 676 ](https://github.com/SEYI-FASE/Belladata/assets/134503256/3741ef23-c59b-47ce-aeb3-ba21e369f218)
 
 # *Recommendation*
-* ### *Station 676 - Watson Testing Divvy which is highly accessed by casual riders should increase their functionality on weekends. If the station opens more on weekends, the casual riders would not be limited to how they can access the station to have their rides. This will encourage them to become full members as they know they will be enjoying maximum benefits and they will not be experiencing any limitation.*
+* ### *Station 676 - Watson Testing Divvy which is highly accessed by casual riders should increase their functionality on weekends. If the station opens more on weekends, the casual riders would not be limited to how they can access the station to have their rides. This will encourage them to become full members as they know they will be enjoying maximum benefits and they will not be experiencing any limitations.*
